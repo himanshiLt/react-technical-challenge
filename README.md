@@ -104,7 +104,7 @@ Some guidances:
 - We expect bug fixes to come with a new test.
 - Fixing this bug might require breaking other tests, you should evaluate if the tradeoff is acceptable.
 
-## Submission
+## Submissionss
 
 **DO NOT** host your project on public repositories.
 Ideally, send us a zip file containing this project (with the _.git_ but without the _node_modules_) at job@mui.com.
